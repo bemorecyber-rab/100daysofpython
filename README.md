@@ -15,8 +15,8 @@ Worked on the TryHackMe: Intro to python room, and went through the following ar
 <li>Loops</li>
 <li>Files</li>
 
-Tried the challenge, but it was quite difficult ... so going to work on that tomorrow!
-Also next step will be to start the PCAP: Programming Essentials in Python course provided by Cisco that I have access to.
+<p>Tried the challenge, but it was quite difficult ... so going to work on that tomorrow!
+Also next step will be to start the PCAP: Programming Essentials in Python course provided by Cisco that I have access to.</p>
 
 <h2>Day2</h2>
 <h2>Day3</h2>
