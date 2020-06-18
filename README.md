@@ -5,6 +5,19 @@ This is my repo for my 100daysofpython learning
 
 <h2>Day1</h2>
 
+Worked on the TryHackMe: Intro to python room, and went through the following areas
+<li>Strings</li>
+<li>Python Maths</li>
+<li>Logical Operators</li>
+<li>Variables and Data Types</li>
+<li>Functions</li>
+<li>If Statements</li>
+<li>Loops</li>
+<li>Files</li>
+
+Tried the challenge, but it was quite difficult ... so going to work on that tomorrow!
+Also next step will be to start the PCAP: Programming Essentials in Python course provided by Cisco that I have access to.
+
 <h2>Day2</h2>
 <h2>Day3</h2>
 <h2>Day4</h2>
