@@ -19,6 +19,9 @@ Worked on the TryHackMe: Intro to python room, and went through the following ar
 Also next step will be to start the PCAP: Programming Essentials in Python course provided by Cisco that I have access to.</p>
 
 <h2>Day2</h2>
+
+<p>Completed the challenge - the code is in the Day2 folder - happy I did that. I also did start the PCAP course but it didn't save my progress? Need to work out why</p>
+
 <h2>Day3</h2>
 <h2>Day4</h2>
 <h2>Day5</h2>
